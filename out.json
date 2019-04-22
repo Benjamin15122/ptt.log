@@ -1,1 +1,1 @@
-{"varlist": {"testK": "testV"}, "graphlist": [{"scaley": "testY", "scalex": "testX", "node": [{"testX": "1", "testY": "4"}, {"testX": "2", "testY": "3"}, {"testX": "5", "testY": "7"}]}]}
+{"varlist": {"testK": "testV"}, "graphlist": [{"scaley": "testY", "scalex": "testX", "node": [{"testX": "1", "testY": "4"}, {"testX": "2", "testY": "3"}, {"testX": "3", "testY": "5"}, {"testX": "4", "testY": "8"}, {"testX": "5", "testY": "7"}]}]}
